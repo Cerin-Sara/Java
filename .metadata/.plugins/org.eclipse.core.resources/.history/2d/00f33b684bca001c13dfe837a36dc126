@@ -7,7 +7,6 @@ public class FunctionSample {
 		int b= sc.nextInt();
 		int result;
 		result= sum(a,b);
-		System.out.println("Sum is:"+result);
 	}
 	
 	static int sum(int a, int b) {
