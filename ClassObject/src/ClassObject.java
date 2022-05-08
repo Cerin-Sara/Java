@@ -16,7 +16,7 @@ public class ClassObject {
 		System.out.println(s2.b);
 		
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter the values:")
+		System.out.println("Enter the values:");
 		
 		int eg1A=sc.nextInt();
 		int eg1B=sc.nextInt();
