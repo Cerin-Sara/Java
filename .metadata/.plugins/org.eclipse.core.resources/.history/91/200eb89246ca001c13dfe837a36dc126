@@ -1,8 +1,0 @@
-package sample;
-
-public class HelloSample {
-	public static void main(String arr[]) {
-		int a=10;
-		System.out.println("Hello" + a);
-	}
-}

@@ -1,7 +1,0 @@
-package sample;
-
-public class HelloSample {
-	public static void main(String arr[]) {
-		System.out.println("Hello");
-	}
-}
